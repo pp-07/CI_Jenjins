@@ -1,0 +1,17 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testng-results ignored="1" total="2" passed="1" failed="0" skipped="0">
+  <reporter-output>
+  </reporter-output>
+  <suite started-at="2021-05-29T07:39:47Z" name="Failed suite [Parallel Testing Suite]" finished-at="2021-05-29T07:40:03Z" duration-ms="15439">
+    <groups>
+    </groups>
+    <test started-at="2021-05-29T07:39:47Z" name="Parallel Tests(failed)" finished-at="2021-05-29T07:40:03Z" duration-ms="15439">
+      <class name="Package1.NewTest">
+        <test-method signature="f1()[pri:0, instance:Package1.NewTest@4e3958e7]" started-at="2021-05-29T07:39:47Z" name="f1" finished-at="2021-05-29T07:40:02Z" duration-ms="15405" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- f1 -->
+      </class> <!-- Package1.NewTest -->
+    </test> <!-- Parallel Tests(failed) -->
+  </suite> <!-- Failed suite [Parallel Testing Suite] -->
+</testng-results>
